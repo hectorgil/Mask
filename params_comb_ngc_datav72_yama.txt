@@ -1,0 +1,12 @@
+#Parameters
+#Path to random file /DATA/hector/eboss/v72/
+#Randoms file  eBOSS_LRGpCMASS_clustering_NGC_v7_2.ran_t1.txt
+#Path to output file .
+#Output ID randomdata_eBOSS_LRGpCMASS_NGC_v72_yama
+#Redshift range 0.6 1.0
+#Omega matter value 0.31
+#Bin for normalization 2
+#DeltaS binning (in Mpc/h) 1.0
+#Maximum Distance explored (in Mpc/h) 5000.0
+#Percentage of Randoms selected (in %) 100.
+#Yamamoto aproximation (yes/no): yes
